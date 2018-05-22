@@ -1,2 +1,2 @@
 # ECE_143_Individual_Project
-My Repository containing all files for the project
+Please load all files in the Individual_Project into Jupyter folder so that the HyperLinks will function properly.
